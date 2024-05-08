@@ -1,0 +1,28 @@
+{
+	"name": "buckler",
+	"floor_box_uvs": true,
+	"texture": "",
+	"texture_size": [32, 32],
+	"parts": [
+		{
+			"name": "base",
+			"position": [0, 24, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-5, 19, 0],
+					"to": [5, 29, 1],
+					"uv": [1, 1],
+					"position": [0, -24, 0]
+				},
+				{
+					"type": "block",
+					"from": [-1, 21, -6],
+					"to": [1, 27, 0],
+					"uv": [6, 17],
+					"position": [0, -24, 0]
+				}
+			]
+		}
+	]
+}
